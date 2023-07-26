@@ -1,7 +1,7 @@
 package operatorThis;
 
 public class Flower {
-    /**Вызов конструкторов из конструкторов*/
+    /**Вызов конструкторов с использованием  "this" */
 
     int petalCount = 0;
     String s = "initial value";
