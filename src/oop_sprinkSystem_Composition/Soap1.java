@@ -1,4 +1,4 @@
-package sprinkSystem_Composition;
+package oop_sprinkSystem_Composition;
 
 public class Soap1 {
     private String s;

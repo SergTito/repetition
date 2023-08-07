@@ -1,4 +1,4 @@
-package sprinkSystem_Composition;
+package oop_sprinkSystem_Composition;
 
 public class SprinklerSystem {
     private String valve1, valve2, valve3, valve4;

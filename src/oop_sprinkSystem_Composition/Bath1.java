@@ -1,4 +1,4 @@
-package sprinkSystem_Composition;
+package oop_sprinkSystem_Composition;
 
 public class Bath1 {
     private String // Инициализация в точке определения :
